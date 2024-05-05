@@ -3,7 +3,7 @@ Collect the cycling routes form strava
 
 # What is this
 This project is used to collect cycling routes, all of which are sourced from the Strava and have been uploaded to ThinkRider for virtual cycling< Br/>
-For Zwift users, please try using [What's on Zwift?]（ https://whatsonzwift.com/ ）
+For Zwift users, please try using [What's on Zwift?](https://whatsonzwift.com/)
 
 
 # 自行车strava路线

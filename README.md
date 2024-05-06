@@ -1,4 +1,4 @@
-# EN
+# EN / [简中](README.zh_CN.md)
 ## Cycling-strava-routes
 Collect the cycling routes form strava
 

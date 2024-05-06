@@ -33,7 +33,7 @@ And every time you start a new ride, you need to set it, otherwise the default "
 ## 使用帮助
 ### 对于智骑用户
 对于使用智骑的用户，请在开始骑行先，在设置中调整「阻力灵敏度」。<br />
-「阻力灵敏度」类似于 Zwift 中的「坡度」设置。<br />
+「阻力灵敏度」类似于 Zwift 中的「Trainer Difficulty」设置。<br />
 Zwift 对于该设置的值默认为 50%，而智骑为 0%，这就导致了在智骑中将会完全感受不到坡度变化。<br />
 故而请智骑用户在开始骑行将「阻力灵敏度」根据自身需求进行调整。
 

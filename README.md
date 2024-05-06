@@ -13,9 +13,9 @@ The default value for this setting is 50% for Zwift, while 0% for ThinkRider, wh
 Therefore, ThinkRider users are requested to adjust the "resistance sensitivity" according to their own needs when starting the ride.
 
 ### Is "resistance sensitivity" cheating?
-The adjustable resistance sensitivity means that the resistance felt by the rider can be manually adjusted, but it is not a cheating switch< Br/>
-In fact, whether you adjust the "resistance sensitivity" to 0% or 100%, it only affects the resistance when you step on it< Br/>
-The software will combine your cycling data and resistance sensitivity data for processing, and finally calculate the correct data< Br/>
+The adjustable resistance sensitivity means that the resistance felt by the rider can be manually adjusted, but it is not a cheating switch<br />
+In fact, whether you adjust the "resistance sensitivity" to 0% or 100%, it only affects the resistance when you step on it<br />
+The software will combine your cycling data and resistance sensitivity data for processing, and finally calculate the correct data<br />
 Specific reference can be made:[Zwift "Trainer Difficulty" Setting Explained CLEARLY!!! Cycle with Max!]([https://www.bilibili.com/video/BV1AM411o7W9/?vd_source=1c30a51b082c1cb45f3da2740a477c26](https://youtu.be/dRTMxPgWuzU?si=-Hq1RI22trTQ4KZA))
 
 # CN

@@ -1,4 +1,4 @@
-# CN
+# [EN](README.md) / [简中](README.zh_CN.md)
 ## 自行车strava路线
 从strava收集骑行路线
 
